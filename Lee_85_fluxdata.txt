@@ -1,0 +1,7 @@
+ethanol 13.0
+carbon_dioxide 21.0
+glycerol 2.17
+acetate 0.239
+alpha,alpha-trehalose 0.0215
+(R)-lactate 0.00609
+growth 0.217
